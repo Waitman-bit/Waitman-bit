@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Davi Waitman and I'm a Front-End Programmer, from Brazil</h2>
+<h2 align="left">Hello Word 👾! My name is Davi Waitman and I'm a Front-End Programmer, from Brazil</h2>
 
 ###
 
